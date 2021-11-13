@@ -169,14 +169,5 @@ print('Mean Absolute Error:',metrics.mean_absolute_error(y_test, y_pred))
 print("r2 score:",metrics.r2_score(y_test,y_pred))
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
